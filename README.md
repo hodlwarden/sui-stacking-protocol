@@ -96,6 +96,7 @@ This will generate the compiled bytecode of the contract. To test the contract, 
 sui move test
 ```
 
+
 ## **Deployment**
 
 To deploy the smart contract, please follow these steps:
